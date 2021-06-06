@@ -7,15 +7,15 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 ## 1 - Engenharia de Software
 
 ### Agile:
-	- Indivíduos e interações mais que processos e ferramentas
-	- Software em funcionamento mais que documentação abrangente
-	- Colaboração com o cliente mais que negociação de contratos
-	- Responder a mudanças mais que seguir um plano
+	- **Indivíduos e interações** mais que processos e ferramentas
+	- **Software em funcionamento** mais que documentação abrangente
+	- **Colaboração com o cliente** mais que negociação de contratos
+	- **Responder a mudanças** mais que seguir um plano
 
 ### Objetivos:
-	- Reduzir o custo de mudanças
-	- Entregar versões do software funcionando o mais rápido possível
-	- Enxugar o processo de desenvolvimento e o próprio software em si
+	- **Reduzir** o custo de mudanças
+	- **Entregar** versões do software funcionando o mais rápido possível
+	- **Enxugar** o processo de desenvolvimento e o próprio software em si
 
 ## 2 - Valores
 
