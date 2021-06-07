@@ -114,9 +114,13 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 
 ### Iterações
 
-### Stand Up Meeting
+### Stand Up Meeting:
+	- Reuniões em pé
 
-### Pair Programming
+### Pair Programming:
+	- Redução de bugs
+	- Discussões levam à implementação de soluções melhores
+	- Pair pressure, mais produtividade
 
 ### Design Simples:
 	- Dúvidas e suposições geram designs complexos e difícies de mudar
@@ -155,10 +159,13 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 		- Arquitetura de Software
 		- Design Patterns, Orientação à Objetos
 		- DDD, TDD
-	- Testar e Refatorar é essencial
+	- Testar e refatorar é essencial
 
 ### Integração Contínua:
-	- 
+	- Quanto mais demorado o merge, pior
+	- Integrar o código constantemente
+	- Build e testes automatizados
+	- Git, Jenkins, Hudison...
 
 ### Test Driven Development:
 	- Escrever os testes que falham
