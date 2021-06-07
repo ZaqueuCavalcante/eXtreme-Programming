@@ -113,10 +113,14 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 	- Paralelo com o conceito de Linguagem Ubíqua
 
 ### Releases:
-	- 
+	- Cada release é dividida em iterações
+	- Desenvolvimento incremental e enxuto
+	- Cada uma entrega parte do software funcionando e testado
 
 ### Iterações:
-	- 
+	- Cada uma é formada por User Stories
+	- Podem ter 1 ou 2 semanas
+	- 1 dia para planejar, 1 para entregar, o resto para implementar
 
 ### Stand Up Meeting:
 	- Reuniões diárias, curtas e feitas em pé
