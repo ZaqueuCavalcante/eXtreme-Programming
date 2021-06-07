@@ -108,14 +108,19 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 	- Usar pontos (dias ou semanas) como unidade de medida
 	- US grandes podem ser divididas em tarefas
 
-### Metáforas
+### Metáforas:
+	- Auxiliam na comunicação entre Negócio e Tecnologia
+	- Paralelo com o conceito de Linguagem Ubíqua
 
-### Releases
+### Releases:
+	- 
 
-### Iterações
+### Iterações:
+	- 
 
 ### Stand Up Meeting:
-	- Reuniões em pé
+	- Reuniões diárias, curtas e feitas em pé
+	- Semelhante a daily do Scrum
 
 ### Pair Programming:
 	- Redução de bugs
