@@ -208,48 +208,49 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 	- Refatora e corrige
 
 ### Analista de Testes:
-	- 
+	- Perito em testes
+	- Garante a qualidade e a corretude do sistema
 
 ### Redator Técnico:
-	- 
+	- Faz e atualiza a documentação do software
+	- Faz código e documentação refletirem um ao outro
 
 ### Coach:
-	- 
+	- Change your mindset
 
 ### Narradores:
-	- 
+	- Pessoas com conhecimento de negócio
+	- Escrevem US e Testes de Aceitação
 
 ### Aprovadores:
-	- 
+	- Validam as US, via testes
 
 ### Planejadores:
-	- 
-
-### Dono do Ouro:
-	- 
+	- De releases, iterações e US
 
 ## 6 - Outros Aspectos
 
 ### Ambiente de Trabalho:
-	- 
+	- Deve ser propício para facilitar as práticas da XP
 
 ### Documentação:
-	- 
+	- Só o essencial
 
 ### Contratos:
-	- 
+	- De escopo aberto
 
 ### Métricas:
-	- 
+	- Código funcionando, gerando e entregando valor
 
 ### Projetos que não podem usar XP:
-	- 
+	- Aqueles que envolvem licitações
+	- Software crítico, aviões, reatores...
 
 ### Quando não tem cliente:
-	- 
+	- Alguém deve ter conhecimento de negócio suficiente para fazer o papel do cliente
 
 ### Cuidados antes e no início do projeto:
-	- 
+	- Focar nos fundamentos e nas práticas a longo prazo
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
