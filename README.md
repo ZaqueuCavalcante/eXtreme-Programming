@@ -196,17 +196,66 @@ Software é feito em ciclos/iterações. O feedback é essencial e as mudanças 
 
 ## 5 - Papéis e Responsabilidades
 
+### Gerente de Projeto:
+	- Defende, promove e tem uma visão holística sobre a equipe
+	- Incentiva a utilização das práticas da XP
+	- Cuida da logística envolvida no desenvolvimento do projeto
 
+### Desenvolvedor:
+	- Personagem central na XP
+	- Analisa, modela, projeta, planeja e implementa o sistema
+	- Testa e faz intergrações
+	- Refatora e corrige
+
+### Analista de Testes:
+	- 
+
+### Redator Técnico:
+	- 
+
+### Coach:
+	- 
+
+### Narradores:
+	- 
+
+### Aprovadores:
+	- 
+
+### Planejadores:
+	- 
+
+### Dono do Ouro:
+	- 
 
 ## 6 - Outros Aspectos
 
+### Ambiente de Trabalho:
+	- 
 
+### Documentação:
+	- 
+
+### Contratos:
+	- 
+
+### Métricas:
+	- 
+
+### Projetos que não podem usar XP:
+	- 
+
+### Quando não tem cliente:
+	- 
+
+### Cuidados antes e no início do projeto:
+	- 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 # [Livro] eXtreme Programming - Práticas para o dia a dia no desenvolvimento ágil de software
 
-- Integrãção Contínua
+- Integração Contínua
 - Histórias de Usuário
 - Ritmo Sustentável
 - Teste de Aceitação
